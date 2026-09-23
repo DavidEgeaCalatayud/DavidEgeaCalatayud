@@ -3,9 +3,9 @@
 **Software Engineer | Computer Engineering**  
 Backend · Mobile · Software Architecture
 
-Software engineer based in Murcia, Spain, focused on building maintainable backend systems, native Android applications, Windows desktop software and developer tooling.
+Software engineer based in Murcia, Spain, with **4+ years of professional experience** across software development and IT, building and maintaining production software, backend systems, native Android applications, Windows desktop software and developer tooling.
 
-I work with production software and place particular emphasis on software architecture, automated testing, CI/CD, security, maintainability and reliable data processing.
+I focus on software architecture, automated testing, CI/CD, security, maintainability and reliable data processing, with an engineering approach centered on robust, production-ready systems.
 
 **Focus:** Backend Engineering · Distributed Systems · Cybersecurity · Software Architecture  
 **Core stack:** Python · FastAPI · PostgreSQL · C# / .NET · Kotlin · Jetpack Compose · TypeScript · React · React Native · C · Docker · GitHub Actions
