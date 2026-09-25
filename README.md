@@ -37,11 +37,6 @@ Educational low-level C security laboratory covering memory-safety concepts and 
 
 `C` · `GCC` · `Clang` · `AddressSanitizer` · `UndefinedBehaviorSanitizer`
 
-### [NixToUny](https://github.com/DavidEgeaCalatayud/NixToUny)
-.NET and Oracle tooling for read-only Nixfarma schema discovery and controlled migration analysis toward Unycop Next. **Currently in development.**
-
-`C#` · `.NET` · `Oracle` · `WinForms`
-
 ## Links
 
 [GitHub](https://github.com/DavidEgeaCalatayud) · [LinkedIn](https://www.linkedin.com/in/david-egea-calatayud-33765a218/)
